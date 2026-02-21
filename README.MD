@@ -21,7 +21,7 @@ The virtual machine is configured with bridged networking so that the website ca
 ```bash
 sudo apt update
 sudo apt install nodejs npm -y
-git clone https://github.com/Anshika-13301/my-portfolio-express
+git clone https://github.com/Anshik-5122005/my-portfolio-express
 cd my-portfolio-express
 npm install
 node app.js
